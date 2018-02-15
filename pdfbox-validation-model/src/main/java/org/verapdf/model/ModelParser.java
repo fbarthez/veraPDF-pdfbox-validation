@@ -47,8 +47,8 @@ import org.verapdf.pdfa.Foundries;
 import org.verapdf.pdfa.PDFAParser;
 import org.verapdf.pdfa.flavours.PDFAFlavour;
 
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.impl.VeraPDFMeta;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.impl.VeraPDFMeta;
 
 /**
  * Current class is entry point to model implementation.
